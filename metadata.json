@@ -1,0 +1,6 @@
+{
+  "name": "NetMirror — Webseries & Movies",
+  "description": "Discover and stream curated movies, regional cinema, and prestige web series powered by the NetMirror catalog API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
